@@ -244,7 +244,7 @@
 .turtlesSL{
   position: absolute;
   top: 146.5%;
-  left: 59%; 
+  left: 60.5%; 
   background-color: rgb(40, 41, 43);
   text-align: justify;
   font-size: 17px; 
@@ -274,7 +274,7 @@
   background-color: rgb(40, 41, 43);
   position: absolute;
   top: 221.5%;
-  left: 59%;
+  left: 60.5%;
   width: 420px;  
 }
 
@@ -296,7 +296,7 @@
   background-color: rgb(40, 41, 43);
   position: absolute;
   top: 260%;
-  left: 59%;
+  left: 60.5%;
   width: 420px;
   padding: 2px;
 }
@@ -319,7 +319,7 @@
   background-color: rgb(40, 41, 43);
   position: absolute;
   top: 281%;
-  left: 59%;
+  left: 60.5%;
   width: 420px;
 }
 
